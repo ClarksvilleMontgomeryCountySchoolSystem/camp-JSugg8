@@ -7,34 +7,46 @@ from data import first, last, birth, days, p_first, p_last, phone, street, city,
 
 
 # first
-
-
+print(type(first))
+first=str(first)
+print(type(first))
 # last
-
-
+print(type(last))
+last=str(last)
+print(type(last))
 # birth
-
-
+print(type(birth))
+birth=int(birth)
+print(type(birth))
 # days
-
-
+print(type(days))
+days=int(days)
+print(type(days))
 # p_first
-
-
+print(type(p_first))
+p_fist=str(p_first)
+print(type(p_first))
 # p_last
+print(type(p_last))
 
-
+print(type(p_last))
 # phone
+print(type(phone))
 
-
+print(type(phone))
 # street
+print(type(street))
 
-
+print(type(street))
 # city
+print(type(city))
 
-
+print(type(city))
 # state
+print(type(state))
 
-
+print(type(state))
 # zip_code
+print(type(zip_code))
 
+print(type(zip_code))
